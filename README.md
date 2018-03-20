@@ -38,3 +38,15 @@ world_population.py
 americas.svg
 population_data.json
 world_populations.svg
+
+
+处理API
+bar_descriptions.py
+hn_submissons.py
+python_repos.py
+python_repos_for_testing.py
+test_refactor_python_repos.py
+bar_descriptions.svg
+hn_discussions.svg
+python_repos.svg
+refactor_python_repos.svg
