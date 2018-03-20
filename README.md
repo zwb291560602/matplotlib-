@@ -40,7 +40,7 @@ population_data.json
 world_populations.svg
 
 
-处理API
+处理API：
 bar_descriptions.py
 hn_submissons.py
 python_repos.py
